@@ -31,4 +31,4 @@ $ npm publish --registry http://localhost:4873
 ```
 
 ## UI
-[![http://localhost:4873]](docs/verdaccio-ui.jpg)](http://localhost:4873)
+![http://localhost:4873](docs/verdaccio-ui.jpg)
