@@ -1,0 +1,5 @@
+storage/*
+plugins/*
+
+!storage/.gitkeep
+!plugins/.gitkeep
